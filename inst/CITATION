@@ -1,0 +1,13 @@
+citHeader("To cite roundR in publications use:")
+
+citEntry(
+  entry    = "Manual",
+  title    = "gerkovink/roundR: Version 0.2.0 - First release",
+  author   = "Gerko Vink and Hanne Oberman",
+  year     = "2023",
+  doi      = "10.5281/zenodo.7668889",
+  url      = "github.com/gerkovink/roundR",
+  textVersion = paste(
+"Vink, G and Oberman, H.I. (2023). gerkovink/roundR: Version 0.2.0 - First release (Version v0.2.0) [Computer software]. https://doi.org/10.5281/zenodo.7668889"
+  )
+)
