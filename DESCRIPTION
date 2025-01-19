@@ -1,0 +1,14 @@
+Package: roundR
+Type: Package
+Title: Round Numeric Values to the Nearest Integer
+Version: 0.2.0
+Author: Zhipei Wang
+Maintainer: Zhipei Wang <z.wang26@students.uu.nl>
+Description: In R the default choice for rounding follows the IEC 60559 standard where a 5 is expected to be rounded to the even digit. This package offers alternative functionality to round to the closest integer. 
+License: MIT + file LICENSE
+Encoding: UTF-8
+LazyData: true
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.3.2
+Imports: 
+    magrittr
